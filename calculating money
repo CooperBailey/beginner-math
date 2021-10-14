@@ -1,3 +1,5 @@
 let dollars = 20
 let cents = 0.50
-let amount = dollars*cents
+let amount = dollars+cents
+let year = 2021
+let next-year = 2021+1
